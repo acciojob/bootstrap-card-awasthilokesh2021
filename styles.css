@@ -16,3 +16,24 @@
     color: white;
     border: none;
 }
+.flex{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 50%;
+    margin-top: 32px;
+    border-bottom: 11px solid black;
+    margin-bottom: 29px 36px;
+    gap: 10px;
+}
+.card-header1{
+    background-color: #b92b2b;
+    border-bottom: 3px solid #ce1717;
+    padding: 0px 12px;
+}
+.card1{
+    background-color: #bd2222;
+    color: white;
+}
+.card-body1{    
+    padding: 0px 12px;
+}
