@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.card-header{
+    padding-left: 15px;
+    border-bottom: 2px solid #c9c4c4;
+}
+.card{
+    border: 2px solid #dfd3d3;
+}
+.card-body{
+    padding: 0 15px;
+    margin-bottom: 17px;
+}
+.card-body button{
+    background-color: blue;
+    color: white;
+    border: none;
+}
